@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: MD Light
+file_extensions:
+  - light
+scope: text.html.markdown.multimarkdown
+
+version: 2
+
+extends: Packages/Markdown/MultiMarkdown.sublime-syntax
+
+first_line_match: (?i:^format:\s*complete\s*$)
+

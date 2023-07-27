@@ -1,0 +1,6 @@
+{"url": "https://github.com/dothtm",
+ "dependencies": [],
+ "version": "0.0.1",
+ "platforms": ["*"],
+ "description": "Testing multiple color schemes with MultiMarkdown.",
+ "sublime_text": "*"}
