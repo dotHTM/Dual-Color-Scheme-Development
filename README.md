@@ -1,4 +1,4 @@
-# MD LD
+# Dual-Color-Scheme-Development
 
 A Convience Syntax family that "extend" the built in MultiMarkdown syntax, so a UI Color Theme Developer can view both the light and dark varients of their theme.
 
